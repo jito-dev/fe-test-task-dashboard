@@ -14,15 +14,15 @@ You are tasked with developing a dashboard based on a design from Figma. Also, t
 ### What should be connected to the server
 
 1. Mom's home feed: \
-![Feed](feed-screenshot.png) \
+![Feed](images/feed-screenshot.png)
 2. Mom's current location: \
-![Location](location-screenshot.png) \
+![Location](images/location-screenshot.png)
 3. Status bar: \
-![Status](status-screenshot.png)
+![Status](images/status-screenshot.png)
 4. Activity log: \
-![Activity](activity-screenshot.png) \
+![Activity](images/activity-screenshot.png)
 5. Profile: \
-![Profile](profile-screenshot.png) \
+![Profile](images/profile-screenshot.png)
 
 ## ❓ SSE (Server Sent Events)
 To learn more about SSE (Server Sent Events), refer to [this link](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events).
@@ -45,4 +45,4 @@ To learn more about SSE (Server Sent Events), refer to [this link](https://devel
 https://www.figma.com/file/yGBxK3lSOxaAc5cvpBIs5Z/Dashboard?type=design&node-id=0-1&mode=design&t=cJ72ys5771UbGVY5-0
 
 ### ✅ Screenshot of the dashboard: 
-![Dashboard](dashboard-screenshot.png)
+![Dashboard](images/dashboard-screenshot.png)
